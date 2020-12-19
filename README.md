@@ -25,7 +25,7 @@ Tools and technologies that you learnt and used in the project.
 Check the apk files included in this Repo. Install them on your device to test it.
 
   [Download App APK](https://drive.google.com/file/d/15I7i4rjlqgggFRBI2VwU6Exhkj-94TgR/view?usp=sharing)
-- Install the google_services.json file as mentioned in the tutorial
+
  
 ## Usage
 >Ensure that your Android device has Allowed Permissions for third-party app installations. 
