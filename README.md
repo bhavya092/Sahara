@@ -1,20 +1,7 @@
 # SAHARA
 
-### Team name: TalentLimitExceeded
-
-## Team members
-* Siddharth Shah siddharthsshah1207@gmail.com
-* Bhavya Mehta bhavyamehta922@gmail.com
-* Vaishnavi Shah vaishnavirahulshah@gmail.com
-* Dhruvin Gandhi dhruvingandhi5@gmail.com
-
-## Mentors
-* Archeel Parekh 
-* Yogesh Deshpande
-
-
-## Description
-*SAHARA*-as the name relates to *support*,is a cross-Platform App which helps the needy.Our app is basically a Food Donation App which connects Food Donors(Caterers,Individuals,Restaurants etc) and the Receiver(NGOs,Individuals etc).This app demands putting up details of the leftover food along with Pickup address and other relevant details which can be viewed by the Receivers.The Receivers as per their convenience can reach the specifed location to collect the food parcel.Efficient management and security of data have been taken care of while developing our product.
+###### Description
+*SAHARA*-as the name relates to *support*,is a cross-Platform App which helps the needy.The app is basically a Food Donation App which connects Food Donors(Caterers,Individuals,Restaurants etc) and the Receiver(NGOs,Individuals etc).This app demands putting up details of the leftover food along with Pickup address and other relevant details which can be viewed by the Receivers.The Receivers as per their convenience can reach the specifed location to collect the food parcel.Efficient management and security of data have been taken care of while developing our product.
 * Includes Filters for viewing only the required data
 * Allows easy Order placing and Cancellation of orders
 * Gives detailed description of your past activities
@@ -84,20 +71,12 @@ Check the apk files included in this Repo. Install them on your device to test i
 >Ensure that your Android device has Allowed Permissions for third-party app installations. 
 
 ## Applications
->Today we see that there are various organisations doing the noble job of supplying food to those who are needy.But these organisations are never sure about how much food they are going to donate and how many people the food is going to suffice. Thus our app can gives them a fair estimate of the quantity of the food and range of people it can serve.This information can also help these organisations to make the necessary adjustments based on the judgment of available food. Moreover, our product will save these guys the trouble to wander in search of potential donors.Not only these big organisations, but individuals(needy) who are capable enough to understand the process can make good use of this.Most importantly,we are indirectly contributing to fulfill the needs of the underpriviledged society.
+>Today we see that there are various organisations doing the noble job of supplying food to those who are needy.But these organisations are never sure about how much food they are going to donate and how many people the food is going to suffice. Thus this app can gives them a fair estimate of the quantity of the food and range of people it can serve.This information can also help these organisations to make the necessary adjustments based on the judgment of available food. Moreover, our product will save these guys the trouble to wander in search of potential donors.Not only these big organisations, but individuals(needy) who are capable enough to understand the process can make good use of this.Most importantly,we are indirectly contributing to fulfill the needs of the underpriviledged society.
 
 ## Future scope
 >We ouserlves feel the need of a automated delivery system.It might happen that the Receivers do not have the required resources to reach out the location and pickup food.
 So maybe if we can integrate exisiting companies' APIs,it can be a great milestone.
 
-## Screenshots 
-
-<img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-193516.png" height = 350/>  <img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-193527.png" height = 350/>
-### Donor Interface
-  <img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-195213.png" height = 350/>   <img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-195224.png" height = 350/>
-  <img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-195030.png" height = 350/>  <img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-195038.png" height = 350/> 
-### Receiver Interface
-<img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-195436.png" height = 350/>  <img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-195445.png" height = 350/>  <img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-195411.png" height = 350/>  <img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-195518.png" height = 350/>  <img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/InkedScreenshot_20200705-195533_LI.jpg" height = 350/>  <img src="https://github.com/vaishnavirshah/TLE/blob/master/App_Screenshots/Screenshot_20200705-195540.png" height = 400/>
 
 ## ScreenRecording
 [ScreenRecording](https://drive.google.com/drive/folders/1-nY6M72Vs5cjbt_TmvYYkkc6FPmh5xX1?usp=sharing)
