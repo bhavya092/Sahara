@@ -20,46 +20,6 @@ Tools and technologies that you learnt and used in the project.
   * Google Firebase
 
 
-## Project Setup
->Clone our github repository.
->## Getting Started
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-  Follow these steps.
-  - First get Flutter and all necessary SDK/Plugins installed. Full guide here [Flutter: Get Started](https://flutter.dev/docs/get-started/install)
-  - Now create a new Flutter App, named as **'sahara'** with  Compatibility.
-    ```
-    flutter create sahara
-    ```
-  - Now download this [Repo](https://github.com/vaishnavirshah/TLE/tree/master)
-    ```
-    git clone URL
-    ```
-   
-  - Extract the Repo into your newly created **sahara** and replace the required files.
-  - Now go to [Firebase](https://console.firebase.google.com/) and start a new project. Follow these [guidelines](https://firebase.google.com/docs/android/setup) here and paste the file **google-services.json** from there into your project. (We are doing this just for Android Platform)
-    
-    _'yourDirectory'\sahara\android\app_
-    
-  - Now Populate your FireStore Database like examples below:
-  
-    ![Firebase_Example_01](https://github.com/vaishnavirshah/TLE/blob/master/Screenshot%20(119).png)
-    ![Firebase_Example_02](https://github.com/vaishnavirshah/TLE/blob/master/Screenshot%20(121)_LI.jpg)
-    ![Firebase_Example_03](https://github.com/vaishnavirshah/TLE/blob/master/Screenshot%20(118)_LI.jpg)
-    ![Firebase_Example_04](https://github.com/vaishnavirshah/TLE/blob/master/Screenshot%20(122).png)
-   
-  - Now you can Finally run VS-Code or Android Studio whichever you prefer and get the flutter packages and just run the App.
-  ```
-  flutter run
-  ```
-  
 # Download the APK
 
 Check the apk files included in this Repo. Install them on your device to test it.
