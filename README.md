@@ -19,8 +19,6 @@
 * Allows easy Order placing and Cancellation of orders
 * Gives detailed description of your past activities
 * Includes Feedback and Report system
-
-* GitHub repo link: [Link to repository](https://github.com/vaishnavirshah/TLE)
 * Drive link: [Drive link here](https://drive.google.com/drive/folders/1JQmotPG7ITyEo4Vmhv_Fa6DmvM8bDBL7?usp=sharing)
 
 
